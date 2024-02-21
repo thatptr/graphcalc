@@ -1,0 +1,4 @@
+# calcx11 - Barebones Calculator, written in XLib
+
+## Objectives
+- Make a fucntioning calaculator
